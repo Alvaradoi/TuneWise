@@ -76,7 +76,7 @@ We welcome contributions from everyone. Before you start, please read our [Code 
 - **Anthony**: Front-end Development
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
 
 ## Acknowledgments
 - Spotify API for providing the data.
