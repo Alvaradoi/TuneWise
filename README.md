@@ -1,9 +1,9 @@
-# SpotiWise :musical_note:
+# TuneWise :musical_note:
 
 ## Description
-SpotiWise is a collaborative project that focuses on analyzing Spotify playlist and user behavior data. The project aims to provide insightful analytics and possibly song recommendations based on user preferences. The project will be focusing on the Data Science and front-end using modern web technologies.
+TuneWise is a collaborative project that focuses on analyzing Spotify playlist and user behavior data. The project aims to provide insightful analytics and possibly song recommendations based on user preferences. The project will be focusing on the Data Science and front-end using modern web technologies.
 
-![SpotiWise Logo](./assets/logo.png) <!--- Project logo to include here -->
+![TuneWise Logo](./assets/logo.png) <!--- Project logo to include here -->
 
 ## Features
 - **Data Analytics**: Get insights into your playlist and music listening behavior.
@@ -30,11 +30,11 @@ SpotiWise is a collaborative project that focuses on analyzing Spotify playlist 
 ### Backend Setup
 1. Clone the repository
     ```bash
-    git clone https://github.com/Alvaradoi/SpotiWise.git
+    git clone https://github.com/Alvaradoi/TuneWise.git
     ```
 2. Navigate to the backend directory
     ```bash
-    cd SpotiWise/backend
+    cd TuneWise/backend
     ```
 3. Install the required Python packages
     ```bash
